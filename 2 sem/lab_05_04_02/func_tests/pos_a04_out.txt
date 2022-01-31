@@ -1,0 +1,16 @@
+Carrot
+Garden
+34
+4
+Bread
+ooo
+15
+3
+Meat
+kproduct
+10
+4
+Milk
+ooo
+5
+4

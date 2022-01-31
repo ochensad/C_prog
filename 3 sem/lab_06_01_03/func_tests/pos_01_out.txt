@@ -1,0 +1,4 @@
+Milk
+23
+Carrot
+12

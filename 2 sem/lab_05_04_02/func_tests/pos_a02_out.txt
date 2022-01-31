@@ -1,0 +1,12 @@
+Bread
+aaa
+100
+34
+Meat
+kproduct
+50
+4
+Carrot
+Garden
+34
+4

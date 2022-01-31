@@ -1,0 +1,7 @@
+3
+Bread
+30
+Milk
+43
+Meat
+56

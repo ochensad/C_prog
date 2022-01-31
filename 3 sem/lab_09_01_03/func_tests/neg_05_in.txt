@@ -1,0 +1,12 @@
+4
+Milk
+1
+Carrot
+2
+
+
+
+Bread
+3
+Meat
+4

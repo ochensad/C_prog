@@ -1,0 +1,8 @@
+Meat
+kproduct
+50
+4
+Bread
+aaa
+100
+34

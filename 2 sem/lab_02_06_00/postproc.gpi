@@ -1,0 +1,21 @@
+#!/usr/bin/gnuplot -persist
+reset # Сбрасываем настройки
+# Следующие две строки раскомментировать, если скрипт является частью конвейера
+# Векторное изображение в качестве терминала, размер можно изменять
+set terminal svg size 1920, 1080
+set output "./myfile01.svg"
+# Золотое сечение как отношение осей
+set size ratio 0.61803
+# 1080.0/1920 как отношение осей
+set size ratio 0.5625
+# Подпись горизонтальной оси
+set xlabel "Количество элементов, шт"
+# Подпись вертикальной оси
+set ylabel "Время, ев"
+# Включение сетки
+set grid
+# Заголовок рисунка
+set title "Зависимость скорости" font "Helvetica, 20"
+plot "./avg100_01.txt" with linespoints title "a[i]",\
+  "./avg100_02.txt" with linespoints title "*(a+i)",\
+  "./avg100_03.txt" with linespoints title "Указатели"

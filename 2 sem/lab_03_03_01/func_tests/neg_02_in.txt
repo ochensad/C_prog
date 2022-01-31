@@ -1,0 +1,5 @@
+4 4
+g f d g
+s f r w
+l k i y
+f r d k 

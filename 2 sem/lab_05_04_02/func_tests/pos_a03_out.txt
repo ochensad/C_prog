@@ -1,0 +1,16 @@
+Milk
+ooo
+120
+4
+Bread
+kproduct
+70
+5
+Carrot
+Garden
+34
+4
+Tomato
+Garden
+20
+5

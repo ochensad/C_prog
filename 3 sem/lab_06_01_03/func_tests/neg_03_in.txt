@@ -1,0 +1,7 @@
+3
+Milk
+4
+Bread
+3.4
+Carrot
+34

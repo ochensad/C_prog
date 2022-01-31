@@ -1,0 +1,16 @@
+Milk
+OOO
+120
+5
+Bread
+aaa
+70
+4
+Meat
+kproduct
+20
+4
+Tomato
+friends
+10
+5
